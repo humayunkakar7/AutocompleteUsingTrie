@@ -1,3 +1,3 @@
 # AutocompleteUsingTrie
 In this project, I worked on the problem of storing a set of n words (also called keys) in a tree data structure, and a method for efficiently finding all the words that contain a given prefix. By word or key here, we just mean a string formed from some set of ASCII characters. (If you are unfamiliar with ASCII, see http://www.asciitable.com/. ASCII encodes text using one byte or 8 bits per character.) You should be familiar with the above problem through the autocomplete feature found on some cell phones, web forms, Eclipse. For instance, if you type in “aar", then autocomplete may suggest aardvark, aardvarks, aardwolf, aardwolves, aargh.
-The A2Q1 file contains the solution to the problem described.
+The Trie file contains the solution to the problem described.
