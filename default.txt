@@ -1,0 +1,24 @@
+6
+a
+and
+ax
+dog
+door
+dot
+8
+door true
+and true
+cat false
+dog true
+ax true
+dot true
+a true
+an false
+3
+door door
+any an
+cat
+3
+a a and ax
+do dog door dot
+c
